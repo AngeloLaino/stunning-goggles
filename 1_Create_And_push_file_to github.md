@@ -1,6 +1,6 @@
-###How to create a new file local and push it to remote repo
+##How to create a new file local and push it to remote repo
 
-##Open Git Bush
+###Open Git Bush
 
  * Go to your local repo
 
