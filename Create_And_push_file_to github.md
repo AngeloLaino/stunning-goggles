@@ -37,6 +37,6 @@ $ git commit -m "leave a message"
  * Push the file changed to your remote repo
 
 ```sh
-$ git push remote master
+$ git push origin master
 
 
